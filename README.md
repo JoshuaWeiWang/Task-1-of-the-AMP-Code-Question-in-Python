@@ -1,5 +1,7 @@
-# Task-1-of-the-AMP-Code-Question
-This is my answer of the task 1 in the AMP Code Question in Python.
+# Task 1 of the AMP Code Question in Python
+This is my answer of the task 1 in the AMP Code Question in Python. Please run this program by the following command:
+
+python Solution.py
 
 ## Sample 0
 
